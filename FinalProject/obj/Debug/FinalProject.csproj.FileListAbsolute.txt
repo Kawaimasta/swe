@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.Attendance.resources
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.Clockinout.resources
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.LoginForm.resources
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.Lvl1.resources
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.Request.resources
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.ScheduleForm.resources
+C:\Users\lenovo\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.Lvl2.resources
